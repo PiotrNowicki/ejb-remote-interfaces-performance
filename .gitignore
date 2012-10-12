@@ -1,4 +1,6 @@
 *.class
+target
+benchmark-lists.*
 
 # Package Files #
 *.jar
